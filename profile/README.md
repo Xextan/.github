@@ -17,6 +17,8 @@ Examples of other loglangs include Loglan, Lojban, Guaspi, and Toaq.
 
 Something important for newcomers to note is that while loglang designers strive to eleminate syntactic ambiguity, it's most likely not possible to eliminate all semantic ambiguity.
 
+### What's special about Xextan? ###
+
 Some notable characteristics of Xextan include:
 
 * Core vocabulary of 500 possible roots and ~100 particles

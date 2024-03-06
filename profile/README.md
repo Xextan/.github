@@ -3,7 +3,7 @@ The Xextan GitHub organization is a small but vibrant community of people intere
 ### What is Xextan? ###
 
 Xextan is a compact logical language designed to maximize simplicity and ease of learning.
-For those unfamiliar, a logical language, or loglang for short, is a type of constructed human language designed to have these specific traits:
+For those unfamiliar, a logical language, or loglang for short, is a constructed human language designed to have these specific traits:
 
 * Unambiguous syntax and machine parsability
 * Self-segregating Morphology; Words can never run together

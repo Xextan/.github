@@ -1,3 +1,5 @@
+The Xextan GitHub organization is a small but vibrant community of people interested in building tools and applications related to Xextan. But first...
+
 ### What is Xextan? ###
 
 Xextan is a compact logical language designed to maximize simplicity and ease of learning.
@@ -8,8 +10,8 @@ For those unfamiliar, a logical language, or loglang for short, is a type of con
 
 Many loglangs also include the following principles:
 
-* Logical consistency, such that any given statement has a single underlying logical framework.
-* Monosemy. Each word has only one definition, even if broad.
+* Logical consistency, such that any given statement has a single underlying logical framework
+* Monosemy; Each word has only one definition, even if broad
 
 Examples of other loglangs include Loglan, Lojban, Guaspi, and Toaq.
 

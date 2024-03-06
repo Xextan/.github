@@ -8,7 +8,7 @@ For those unfamiliar, a logical language, or loglang for short, is a type of con
 * Unambiguous syntax and machine parsability
 * Self-segregating Morphology; Words can never run together
 
-Many loglangs also include the following principles:
+Many loglangs, to varying degrees, also include the following principles:
 
 * Logical consistency, such that any given statement has a single underlying logical framework
 * Monosemy; Each word has only one definition, even if broad
